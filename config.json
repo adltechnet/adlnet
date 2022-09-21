@@ -2,7 +2,7 @@
     "Version": "21",
     "ReleaseNotes": "â¬‡ï¸ Servidor On â¬‡ï¸\n\nðŸ”¸ Aproveitem a Internet Ilimitada ðŸ”¸\nâ‰ˆâ‰ˆâ‰ˆâˆžâ‰ˆâ‰ˆâ‰ˆ",
     //"Sms": "https://www.cmmtunel.ga/update/ViperNet/sms",
-    //"UrlUpdate": "https://www.cmmtunel.ga/update/ViperNet/config",
+    "UrlUpdate": "https://github.com/adltechnet/adlnet/blob/main/config",
     "EmailFeedback": "",
     "UrlContato": "https://t.me/adltech",
     "UrlTermos": "",
@@ -23,7 +23,7 @@
     ],
     "Networks": [
         {
-            "Name": "VIVO 18.6",
+            "Name": "VIVO 18.6 atualizou",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
